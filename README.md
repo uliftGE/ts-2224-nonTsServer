@@ -23,5 +23,5 @@ https://github.com/uliftGE/ts-2224-nonTsReactApp<br/>
 # 코드 리뷰 
 
 강의에 들어갈 코드라고 생각하고 봐주시면 됩니다! 
-
-이 코드에 ts적용한 버전이라고 생각해주시면 됩니다!
+https://github.com/uliftGE/ts-2224-tsServer
+이 코드에 ts적용하기 전 버전이라고 생각해주시면 됩니다!
