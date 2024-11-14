@@ -9,7 +9,7 @@
 app.js <br/>
 routes/books.js <br/>
 data.js <br/>
-type.js 
+
 
 # 연결 fe
 
